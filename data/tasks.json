@@ -1,0 +1,144 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Research content ideas",
+      "description": "Brainstorm and research new content ideas for the blog",
+      "completed": false,
+      "list": "Work",
+      "tags": ["content", "research"],
+      "dueDate": "2025-01-31"
+    },
+    {
+      "id": 2,
+      "title": "Create a database of guest authors",
+      "description": "Compile a list of potential guest authors with their contact information and expertise",
+      "completed": false,
+      "list": "Work",
+      "tags": ["content", "collaboration"],
+      "dueDate": "2025-01-31"
+    },
+    {
+      "id": 3,
+      "title": "Renew driver's license",
+      "description": "Visit DMV to renew driver's license",
+      "completed": false,
+      "list": "Personal",
+      "dueDate": "2025-01-31",
+      "subtasks": [
+        {
+          "id": "3-1",
+          "title": "Gather required documents",
+          "completed": false
+        },
+        {
+          "id": "3-2",
+          "title": "Schedule appointment",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Consult accountant",
+      "description": "Review Q1 finances and tax planning",
+      "completed": false,
+      "list": "List 1",
+      "dueDate": "2025-02-01",
+      "tags": ["finance", "important"]
+    },
+    {
+      "id": 5,
+      "title": "Print business card",
+      "completed": false,
+      "list": "Work",
+      "dueDate": "2025-02-01"
+    },
+    {
+      "id": 6,
+      "title": "Create job posting for SEO specialist",
+      "description": "Write and publish job posting for SEO specialist position",
+      "completed": false,
+      "list": "Work",
+      "dueDate": "2025-02-01",
+      "tags": ["hiring", "seo"]
+    },
+    {
+      "id": 7,
+      "title": "Request design assets for landing page",
+      "description": "Contact design team for new landing page assets",
+      "completed": false,
+      "list": "Work",
+      "dueDate": "2025-02-02",
+      "tags": ["design", "website"],
+      "subtasks": [
+        {
+          "id": "7-1",
+          "title": "Create design brief",
+          "completed": false
+        },
+        {
+          "id": "7-2",
+          "title": "Schedule design review meeting",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Weekly team meeting preparation",
+      "description": "Prepare agenda and progress reports for weekly team meeting",
+      "completed": false,
+      "list": "Work",
+      "dueDate": "2025-02-02",
+      "tags": ["meeting", "management"]
+    },
+    {
+      "id": 9,
+      "title": "Update portfolio website",
+      "description": "Add recent projects and update skills section",
+      "completed": false,
+      "list": "Personal",
+      "dueDate": "2025-02-03",
+      "tags": ["website", "career"]
+    },
+    {
+      "id": 10,
+      "title": "Review marketing analytics",
+      "description": "Analyze Q1 marketing performance and prepare report",
+      "completed": false,
+      "list": "Work",
+      "dueDate": "2025-02-03",
+      "tags": ["marketing", "analytics"],
+      "subtasks": [
+        {
+          "id": "10-1",
+          "title": "Gather data from all platforms",
+          "completed": false
+        },
+        {
+          "id": "10-2",
+          "title": "Create visualization charts",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Plan content calendar for March",
+      "description": "Outline content themes and key dates for March",
+      "completed": false,
+      "list": "Work",
+      "dueDate": "2025-02-04",
+      "tags": ["content", "planning"]
+    },
+    {
+      "id": 12,
+      "title": "Gym membership renewal",
+      "description": "Visit gym to renew annual membership",
+      "completed": false,
+      "list": "Personal",
+      "dueDate": "2025-02-04"
+    }
+  ]
+} 
