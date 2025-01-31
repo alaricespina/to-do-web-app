@@ -1,0 +1,25 @@
+:root {
+    --background: #ffffff;
+    --foreground: #171717;
+    --sidebar-foreground: #000; /* Black text color for sidebar */
+  }
+  
+@media (prefers-color-scheme: dark) {
+:root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --sidebar-foreground: #fff; /* White text color for dark mode sidebar */
+}
+}
+
+body {
+color: var(--foreground);
+background: var(--background);
+font-family: sans-serif;
+}
+
+/* Style the sidebar text specifically */
+aside ul li {
+color: var(--sidebar-foreground);
+}
+  
